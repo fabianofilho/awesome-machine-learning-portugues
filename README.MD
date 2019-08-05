@@ -28,27 +28,27 @@ Agora vamos estudar machine learning até o talo! :punch:
 
 ## Tabela de conteúdo :ballot_box_with_check:
 
-- [O que é? :interrobang:](#o-que-é)
-- [Por que usar? :interrobang:](#por-que-usar)
-- [Como usar? :interrobang:](#como-usar)
-- [Não sinta que não é inteligente o bastante :poop:](#não-sinta-que-não-é-inteligente-o-bastante)
-- [Assuntos introdutórios :baby:](#Assuntos-introdutórios)
-    - [classificação vs predição](#classificação-vs-predição)
-- [Machine learning superviosionado](#Machine-learning-superviosionado)
-    - [Árvore de decisão](#Árvore-de-decisão)
-    - [KNN](#KNN)
-    - [Naive bayes](#Naive-bayes)
-    - [Support vector machine(SVM)](#Support-vector-machine(SVM))
-    - [Regressão linear](#Regressão-linear)
-    - [Perceptron](#Perceptron)
-    - [Regressão logística](#Regressão-logística)
-    - [Função de custo](#Função-de-custo)
-    - [Gradient Descent](#Gradient-Descent)
-    - [Multilayer perceptron](#Multilayer-perceptron)
-    - [Redes neurais convolucionais](#Redes-neurais-convolucionais)]
-    - [Adaboost](#Adaboost)
-    - [Rede neurais recorrentes](#Rede-neurais-recorrentes)
-- [Machine learning não superviosionado](#Machine-learning-não-superviosionado)
+- [x]  [O que é? :interrobang:](#o-que-é)
+- [ ]  [Por que usar? :interrobang:](#por-que-usar)
+- [ ]  [Como usar? :interrobang:](#como-usar)
+- [ ]  [Não sinta que não é inteligente o bastante :poop:](#não-sinta-que-não-é-inteligente-o-bastante)
+- [ ]  [Assuntos introdutórios :baby:](#Assuntos-introdutórios)
+    - [ ] [classificação vs predição](#classificação-vs-predição)
+- [ ] [Machine learning superviosionado](#Machine-learning-superviosionado)
+    - [ ] [Árvore de decisão](#Árvore-de-decisão)
+    - [ ] [KNN](#KNN)
+    - [ ] [Naive bayes](#Naive-bayes)
+    - [ ] [Support vector machine(SVM)](#Support-vector-machine(SVM))
+    - [ ] [Regressão linear](#Regressão-linear)
+    - [ ] [Perceptron](#Perceptron)
+    - [ ] [Regressão logística](#Regressão-logística)
+    - [ ] [Função de custo](#Função-de-custo)
+    - [ ] [Gradient Descent](#Gradient-Descent)
+    - [ ] [Multilayer perceptron](#Multilayer-perceptron)
+    - [ ] [Redes neurais convolucionais](#Redes-neurais-convolucionais)]
+    - [ ] [Adaboost](#Adaboost)
+    - [ ] [Rede neurais recorrentes](#Rede-neurais-recorrentes)
+- [ ] [Machine learning não superviosionado](#Machine-learning-não-superviosionado)
 ---
 ## Por que usar?
 
